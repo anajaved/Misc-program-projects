@@ -1,2 +1,2 @@
 # Misc-program-projects
-Projects completed utilizing python and JS
+Projects are completed utilizing python and JavaScript
