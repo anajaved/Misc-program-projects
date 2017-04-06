@@ -1,2 +1,1 @@
-# Misc-program-projects
-Projects are completed utilizing python and JavaScript
+Side projects completed utilizing Python, R, and JavaScript
